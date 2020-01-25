@@ -3,11 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: notes
+description: 'to self, mostly'
 keywords:
-author: John Doe
+author: udit
 language: en
 timezone: ''
 
@@ -93,7 +92,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: polarbear
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
