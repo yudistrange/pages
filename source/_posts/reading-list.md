@@ -1,7 +1,10 @@
 ---
 title: reading list
 date: 2020-07-21
-tags: personal
+tags:
+- personal
+- tech
+- books
 ---
 
 I have been sitting on a pile of technical books that I would like to read. But I haven't been able to do it with conviction. I keep getting distracted by something or the other.
