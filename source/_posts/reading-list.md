@@ -11,11 +11,14 @@ I have been sitting on a pile of technical books that I would like to read. But 
 
 So I thought maybe I will put the list in the public domain, just to put some pressure on myself. The goal is to finish these cover to cover before the year ends. Here goes it:
 
-- Practical Object Oriented design in Ruby
-- TDD by example
-- User stories applied
-- Software Architecture
-- Designing for Scalability with Erlang
-- Reactive Design Patterns
-- Database Internals
-- Designing Data-Intensive Applications
+- [x] Practical Object Oriented design in Ruby
+- [ ] TDD by example
+- [ ] User stories applied
+- [ ] Software Architecture
+- [ ] Designing for Scalability with Erlang
+- [ ] Reactive Design Patterns
+- [ ] Database Internals
+- [ ] Designing Data-Intensive Applications
+
+#### Update 2020-03-03
+Failed miserably with this. Started a lot of these, but only finished POODR completely. Need to get better at this.
